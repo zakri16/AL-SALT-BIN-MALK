@@ -1,0 +1,17 @@
+/* تنسيق إطار النص الكامل */
+.full-article-container {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 3px solid #2196F3; /* لون الإطار */
+    border-radius: 12px; /* زوايا دائرية */
+    background-color: #fff; /* خلفية بيضاء */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* ظل أكثر وضوحًا */
+    font-family: Arial, sans-serif;
+}
+
+.full-article-container p {
+    color: #444;
+    font-size: 18px;
+    line-height: 1.8;
+}
